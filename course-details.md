@@ -1,24 +1,18 @@
 ## Basic Network Penetration Testing ##
-Welcome to the Beginner Network Pentesting course. Previously, the course was delivered weekly on Twitch and built from lessons learned in the previous week. The course provides an opportunity for those interested in becoming an ethical hacker / penetration tester the chance to learn the practical skills necessary to work in the field. Throughout the course, we will develop our own Active Directory lab in Windows, make it vulnerable, hack it, and patch it. We'll cover the red and blue sides. We'll also cover some of the boring stuff like report writing :).
+Welcome to the Beginner Network Pentesting course. This course gives an opportunity for students and professionals who are interested in becoming an ethical hacker / penetration tester the chance to learn and practice skills necessary to excel in the field. Throughout the course, we will cover basics of network penetratin testing. We will try to do as much as possible hands on lessons but sometimes you need to also learn about boring stuff too :)
 
-The full course can be found here: https://youtu.be/WnN6dbos5u8
+The course will not be on fully blown one video. You can find the individial videos on my Youtube channel here:
 
-All individual videos can be found on YouTube at https://www.youtube.com/watch?v=qlK174d_uu8&list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj or on my website at https://www.thecybermentor.com/zero-to-hero-pentesting.
+The following lesson plan will give you a brief idea on what we will be covering in this course for next 12 weeks.
 
-All homework and e-mails that were sent during the course are stored in their corresponding "week" folders (e.g. Week 5's homework is in the "Week 5" folder).
+## Lesson Plan
 
-Below, you will find a lesson plan detailing everything that we covered in the course by week. If you're following along with the course and have questions, feel free to join the TCM Discord at https://discord.gg/REfpPJB.
+- Setting Up A Penetration Testing Environment 
 
-Lesson Plan
-Week 1 Lessons:
-Setting Up A Penetration Testing Environment - This will focus on setting up a lab environment, specifically VMWare, Kali Linux, and our lab VMs. The lesson will briefly introduce important aspects of each set up (e.g. Snapshots in VMWare, the Kali Linux toolset, etc.) with the intention to build upon those aspects in later lessons.
-
-How to Keep Notes Effectively - This lesson will cover the importance of note taking from a pentester standpoint. The lesson will introduce the Kali Linux built-in note-taking application, KeepNote, and discuss how to take notes effectively. Taking notes during a penetration test is incredibly important as it allows a pentester reference points when writing their final report, discussing timelines with their team or manager, or even discussing specifics of a pentest with a client.
-
-Introductory Linux - This lesson will briefly cover the important Linux terminal commands needed to use Kali Linux. Some of the topics that will be covered are: navigating the file system, users and privileges, common network commands, bash scripting, and much more.
+- Introductory Linux - This lesson will briefly cover the important Linux terminal commands needed to use Kali Linux. 
 
 Week 2 & 3 Lessons:
-Introductory Python - Similar to Linux, we will spend some time learning basic Python scripting, which will be essential to our future endeavors as penetration testers.
+Introductory Python - Similar to Linux, we will spend some time learning basic Python scripting, which will be essential to penetration testers.
 
 Week 4 Lessons:
 Hacking in Five Steps - This lesson will introduce the five key components of hacking: reconnaissance, enumeration, exploitation, maintaining access, and covering tracks. These five key concepts will be built upon as we progress, with at least one part dedicated to each component.
